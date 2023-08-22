@@ -1,13 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jungwon%20Jang&fontSize=90)
 
-#Me
+# Me
 
-##Tools
+## Tools
 <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=로고이름&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-yellow?style=flat&logo=로고이름&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-orange?style=flat&logo=로고이름&logoColor=white"/>
 
-##SNS
+## SNS
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jungwon)](https://github.com/anuraghazra/github-readme-stats)
 
