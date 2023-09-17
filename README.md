@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Brain%20Garden&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Brain%20Garden&fontSize=90&animation=twinkling)
 
 <h2 align="center">🦋 Me 🦋</h2> 
 Hi there! I am Jungwon (or Jo), a future neuroscientist.🧠 
@@ -18,10 +18,15 @@ My desire is to probe cognitive impairment using AI models, encompassing addicti
 
 <h3 align="center">🌿 My Git Stats 🌿</h3>
 <p align="center">
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joanna9810&show_icons=true&theme=tokyonight)
+  <a href="https://github.com/joanna9810">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanna9810&layout=compact&theme=tokyonight" />
+    </a>
+</p>
 </p>
 
 <h3 align="center">🌻 My Most Used Languages 🌻</h3>
 <p align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joanna9810s&layout=compact&theme=tokyonight)
+  <a href="https://github.com/joanna9810">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanna9810&layout=compact&theme=tokyonight" />
+  </a>
 </p>
