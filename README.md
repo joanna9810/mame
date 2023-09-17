@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Brain%20Garden&fontSize=90&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Brain%20Garden&fontSize=70&animation=twinkling)
 
 <h2 align="center">🦋 Me 🦋</h2> 
 Hi there! I am Jungwon (or Jo), a future neuroscientist.🧠 
@@ -19,7 +19,7 @@ My desire is to probe cognitive impairment using AI models, encompassing addicti
 <h3 align="center">🌿 My Git Stats 🌿</h3>
 <p align="center">
   <a href="https://github.com/joanna9810">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=joanna9810&layout=compact&theme=tokyonight" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=joanna9810&layout=compact&include_all_commits=true&hide_title=true&theme=tokyonight" />
     </a>
 </p>
 
