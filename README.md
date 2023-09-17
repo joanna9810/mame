@@ -19,9 +19,8 @@ My desire is to probe cognitive impairment using AI models, encompassing addicti
 <h3 align="center">🌿 My Git Stats 🌿</h3>
 <p align="center">
   <a href="https://github.com/joanna9810">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanna9810&layout=compact&theme=tokyonight" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=joanna9810&layout=compact&theme=tokyonight" />
     </a>
-</p>
 </p>
 
 <h3 align="center">🌻 My Most Used Languages 🌻</h3>
