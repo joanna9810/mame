@@ -1,15 +1,27 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jungwon%20Jang&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Brain%20Garden&fontSize=90)
 
-# Me
+<h2 align="center">🦋 Me 🦋</h2> 
+Hi there! I am Jungwon (or Jo), a future neuroscientist.🧠 
+I studied BA psychology at the University of Queensland and currently working on MS AI at Pusan National University. 
+My desire is to probe cognitive impairment using AI models, encompassing addiction, sleep disorder, and dementia. 
 
-## Tools
-<img src="https://img.shields.io/badge/Python-blue?style=flat&logo=로고이름&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-yellow?style=flat&logo=로고이름&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-orange?style=flat&logo=로고이름&logoColor=white"/>
+<h3 align="center">🛠️ Tools 🛠️</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-blue?style=flat&logo=#3776AB&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-yellow?style=flat&logo=#276DC3&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-orange?style=flat&logo=#4479A1&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pytorch-red?style=flat&logo=#EE4C2C&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tensorflow-brown?style=flat&logo=#FF6F00&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github-black?style=flat&logo=#EE4C2C&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-purple?style=flat&logo=#F37626&logoColor=white"/>
+</p>
 
-## SNS
+<h3 align="center">🌿 My Git Stats 🌿</h3>
+<p align="center">
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joanna9810&show_icons=true&theme=tokyonight)
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jungwon)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+<h3 align="center">🌻 My Most Used Languages 🌻</h3>
+<p align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joanna9810s&layout=compact&theme=tokyonight)
+</p>
